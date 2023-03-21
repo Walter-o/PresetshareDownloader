@@ -5,6 +5,12 @@ Downloads all free audio production presets from `presetshare.com` so you can ma
 
 (There are currently 4000~ presets)
 
+## Usage
+```
+python app.py --phpsessid <PHPSESSID>
+```
+You can collect your PHPSESSID cookie from your browser on `presetshare.com`
+
 ## Downloads
 If you want an .exe file instead then those are at the releases page:
 
